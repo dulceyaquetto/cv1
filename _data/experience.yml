@@ -8,9 +8,14 @@
 # 
 - company: King's College London
   position: Graduate Teaching Assistant
-  duration:  Oct 2022 &mdash; Dec 2023
-  summary: <ul class="resume-item-list"><li>Introduction to Statistical Analysis MSc Forensic Sciences</li><li>Research Design MSc Psychiatric Research</li>
+  duration:  Oct 2022 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Introduction to Statistical Analysis MSc Forensic Sciences</li><li>Research Design MSc Psychiatric Research</li><li>Research Methods BSc Psychology</li>
 # 
+- company: King's College London
+  position: Research Intern
+  duration: Jan 2024 &mdash; Present
+  summary: Analysis of clinical records data on psychosis and loneliness	
+#
 - company: Universidad Peruana Cayetano Heredia
   position: Lecturer
   duration: Jul 2020  &mdash; May 2021
